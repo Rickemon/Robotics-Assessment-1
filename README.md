@@ -28,7 +28,7 @@ To run the code you must first close the GUI if it is connected to the robot and
 
 Note when the robot starts it will calibrate the line sensor this process can be identified by the Yellow LED being on when the robot is turned on and when it finishes it should turn off you can re calibrate it by typing the key press 'C'
 
-##acknowledgements
+## Acknowledgements
 The GUI was built using the G4P GUI builder
 
 A lot of my understandiing of using the Zumo32u4 robot came from code examples from pololus example projects these can be found here https://github.com/pololu/zumo-32u4-arduino-library/tree/master/examples
